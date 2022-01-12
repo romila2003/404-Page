@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{file:///D:/New%20folder/VSCode/404/404-not-found-master/index.html}">
+    <a href="https://{https://{your-demo-link.your-domain}">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://{file:///D:/New%20folder/VSCode/404/404-not-found-master/index.html}">
       Solution
     </a>
     <span> | </span>
