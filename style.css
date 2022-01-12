@@ -1,0 +1,154 @@
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@700&family=Montserrat:wght@500&family=Space+Mono:wght@400;700&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.logo {
+    font-family: 'Inconsolata', monospace;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 25px;
+    margin-top: 40px;
+    margin-left: 70px;
+    text-transform: uppercase;
+    
+}
+
+#scarecrow {
+    position: absolute;
+    height: 430px;
+    width: 530px;
+    margin-left: 77px;
+    margin-top: 200px;
+}
+
+section {
+    font-family: 'Space Mono', monospace;
+}
+
+h1 {
+    position: absolute;
+    font-weight: 700;
+    font-size: 64px;
+    color: #333333;
+    line-height: 95px;
+    letter-spacing: -0.035em;
+    width: 586px;
+    height: 190px;
+    left: 735px;
+    top: 265px;
+    margin-left: 50px;
+    margin-top: -20px;
+}
+
+p {
+    position: absolute;
+    color: #4F4F4F;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 36px;
+    letter-spacing: -0.035em;
+    width: 381px;
+    height: 108px;
+    left: 736px;
+    top: 491px;
+    margin-left: 50px;
+    margin-top: -20px;
+}
+
+button {
+    position: absolute;
+    width: 216px;
+    height: 68px;
+    left: 740px;
+    top: 663px;
+    background-color: #333333;
+    margin-left: 50px;
+    margin-top: -20px;
+}
+
+a {
+    color: #fff;
+    font-family: 'Space Mono', monospace;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 21px;
+    text-transform: uppercase;
+    letter-spacing: -0.035em;
+    width: 130px;
+    height: 21px;
+    left: 783px;
+    top: 687px;
+}
+
+.bottom {
+    position: absolute;
+    font-family: 'Montserrat', sans-serif;
+    color: #BDBDBD;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 17px;
+    width: 300px;
+    height: 17px;
+    left: 750px;
+    top: 900px;
+    align-items: center;
+}
+
+@media screen and (max-width: 600px) {
+    .logo {
+        margin-top: 20px;
+        margin-left: 30px;
+    }
+
+    #scarecrow {
+        position: absolute;
+        height: 300px;
+        width: 400px;
+        margin-left: 50px;
+        margin-top: 100px;
+    }
+
+    h1 {
+        font-size: 48px;
+        line-height: 71px;
+        width: 350px;
+        height: 142px;
+        left: 24px;
+        top: 407px;
+        margin-left: 30px;
+        margin-top: 100px;
+    }
+
+    p {
+        font-size: 18px;
+        line-height: 27px;
+        width: 328px;
+        height: 81px;
+        left: 23px;
+        top: 579px;
+        margin-left: 30px;
+        margin-top: 120px;
+    }
+
+    button {
+        left: 24px;
+        top: 726px;
+        margin-left: 30px;
+        margin-top: 100px;
+    }
+
+     a {
+        left: 67px;
+        top: 750px;
+     }
+
+     .bottom {
+        left: 46px;
+        top: 850px; 
+        margin-left: 30px;
+        padding-bottom: 40px;
+     }
+}
