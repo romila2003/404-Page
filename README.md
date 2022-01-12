@@ -12,7 +12,7 @@
       Demo
     </a>
     <span> | </span>
-    <a href="https://{file:///D:/New%20folder/VSCode/404/404-not-found-master/index.html}">
+    <a href="https://{https://{your-url-to-the-solution}">
       Solution
     </a>
     <span> | </span>
